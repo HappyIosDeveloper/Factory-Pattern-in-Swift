@@ -1,4 +1,4 @@
-# Factory-Pattern-in-Swift
+# Factory Pattern in Swift
 Simple example of Factory Pattern written in Swift
 
 # You can save the below code in Playground or download the depo file.
