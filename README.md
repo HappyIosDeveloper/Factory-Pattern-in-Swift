@@ -1,7 +1,7 @@
 # Factory-Pattern-in-Swift
 Simple example of Factory Pattern written in Swift
 
-## You can save the below code in Playground or download the depo file.
+# You can save the below code in Playground or download the depo file.
 
     import UIKit
     
@@ -41,4 +41,12 @@ Simple example of Factory Pattern written in Swift
     for gender in genders {
         CarFactory.makeCar(for: gender).printDetail()
     }
+    
+    // Here is the output
+    /*
+    car type: coupe, color: black
+    car type: hatchBack, color: red
+    car type: sedan, color: white
+    car type: suv, color: blue
+    */
     
