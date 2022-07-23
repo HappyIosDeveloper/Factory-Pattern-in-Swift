@@ -42,8 +42,9 @@ Simple example of Factory Pattern written in Swift
         CarFactory.makeCar(for: gender).printDetail()
     }
     
-    // Here is the output
     /*
+    Here is the output:
+    
     car type: coupe, color: black
     car type: hatchBack, color: red
     car type: sedan, color: white
